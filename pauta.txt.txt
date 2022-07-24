@@ -19,3 +19,6 @@ git branch -m main
 
 # bash list directory
 ls -la
+
+# shows commit
+git log
