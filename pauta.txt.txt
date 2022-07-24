@@ -1,0 +1,21 @@
+# create react project
+npx create-react-app frontend
+
+# start aplication
+npm start
+
+
+# install dependencies
+npm install
+
+# remove git
+rm -r -fo .git
+
+# initialize git repository
+git init
+
+# name main brach
+git branch -m main
+
+# bash list directory
+ls -la
