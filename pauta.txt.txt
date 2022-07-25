@@ -22,3 +22,9 @@ ls -la
 
 # shows commit
 git log
+
+# install bootstrap
+npm install react-bootstrap bootstrap
+
+#fix react-bootstrap installation
+npm audit fix --force
