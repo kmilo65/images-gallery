@@ -13,6 +13,7 @@ const Search= ({word, setword,handleSubmit})=>{
                                 type="text"
                                 value={word}
                                 onChange={(e)=>setword(e.target.value)}
+            
                                 placeholder="Search for a new element.." />
                         </Col>
                         <Col>
